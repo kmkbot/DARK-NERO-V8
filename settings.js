@@ -19,10 +19,10 @@ global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
+global.alivepic = 'https://telegra.ph/file/e921908e1d2e5bd0163a1.jpg '
+global.owner = ['0761081292'] //ur owner number
+global.ownername = "𝕂𝔸𝕍𝕀ℕ𝔻𝕌-ℙ𝔸𝕎𝔸ℕ" //ur owner name
+global.ytname = "YT: podda official" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
